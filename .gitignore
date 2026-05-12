@@ -27,10 +27,7 @@ notebooks/.ipynb_checkpoints/
 
 # Dataset and model outputs
 data/
-model/
-images/
 *.h5
-*.keras
 *.ckpt
 
 # Logs and temporary files
